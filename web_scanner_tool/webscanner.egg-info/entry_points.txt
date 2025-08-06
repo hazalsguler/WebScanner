@@ -1,0 +1,2 @@
+[console_scripts]
+webscanner = webscanner.cli:main

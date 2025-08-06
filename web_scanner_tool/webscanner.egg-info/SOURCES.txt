@@ -1,0 +1,10 @@
+setup.py
+webscanner/__init__.py
+webscanner/cli.py
+webscanner/core.py
+webscanner.egg-info/PKG-INFO
+webscanner.egg-info/SOURCES.txt
+webscanner.egg-info/dependency_links.txt
+webscanner.egg-info/entry_points.txt
+webscanner.egg-info/requires.txt
+webscanner.egg-info/top_level.txt
